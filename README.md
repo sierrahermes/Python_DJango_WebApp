@@ -1,2 +1,2 @@
 # Python_DJango_WebApp
-This it a DJango Application
+This is a DJango Application
